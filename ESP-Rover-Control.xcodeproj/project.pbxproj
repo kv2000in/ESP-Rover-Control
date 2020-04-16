@@ -6,10 +6,15 @@
 	objectVersion = 50;
 	objects = {
 
+/* Begin PBXFileReference section */
+		2AA9D96D24481B62006C7CD3 /* ESP-Rover-Control.ino */ = {isa = PBXFileReference; lastKnownFileType = text; path = "ESP-Rover-Control.ino"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
 /* Begin PBXGroup section */
 		2AA9D96624481AA3006C7CD3 = {
 			isa = PBXGroup;
 			children = (
+				2AA9D96D24481B62006C7CD3 /* ESP-Rover-Control.ino */,
 			);
 			sourceTree = "<group>";
 		};
